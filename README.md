@@ -34,5 +34,5 @@
 
 ---
 
-[<img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/linkedin_ico.png">](https://www.linkedin.com/in/gianfranco-larocca-25a6841a2/)
+[<img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/linkedin_ico.png">](https://www.linkedin.com/in/gianfrancolarocca4j/)
 <a href="mailto:gianfrancolarocca4j@gmail.com?"><img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/gmail_ico.png"/></a>
