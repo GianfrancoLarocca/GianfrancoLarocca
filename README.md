@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/github/followers/Giancotsu?style=social
+### I'm Gianfranco Larocca, Java Backend Developer 💻
 
 <!--
 **Giancotsu/Giancotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
