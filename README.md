@@ -9,13 +9,30 @@
 ## 🛠️ Technologies and Tools I use:
 
 ---
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/spring_boot_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/flutter_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/hibernate_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/html_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/javascript_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/java_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/maven_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/mysql_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postgres_ico.png)
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postman_ico.png)
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/spring_boot_ico.png "Spring Boot")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/flutter_ico.png "Flutter")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/hibernate_ico.png "Hibernate")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/html_ico.png "HTML")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/javascript_ico.png "Javascript")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/java_ico.png "JAVA")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/maven_ico.png "Maven")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/mysql_ico.png "MYSQL")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postgres_ico.png "Postgres")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postman_ico.png "Postman")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postman_ico.png "Git/Github")
+
+## 👨🏻‍💻 About me:
+
+---
+
+- 💻 I'm Java Backend Developer;
+- ⏳ I'm learning python
+- 📧 gianfrancolarocca4j@gmail.com
+- 🏡 Italy
+
+## ❤️ Let's get connected:
+
+---
+
+[<img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/linkedin_ico.png">](https://www.linkedin.com/in/gianfranco-larocca-25a6841a2/)
+<a href="mailto:gianfrancolarocca4j@gmail.com?"><img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/gmail_ico.png"/></a>
