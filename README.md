@@ -2,5 +2,7 @@
 
 ### I'm Gianfranco Larocca, Java Backend Developer 💻
 
-prova2
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/giphy.gif)
+
+
 
