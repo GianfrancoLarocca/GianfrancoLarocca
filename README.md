@@ -19,7 +19,7 @@
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/mysql_ico.png "MYSQL")
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postgres_ico.png "Postgres")
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postman_ico.png "Postman")
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/postman_ico.png "Git/Github")
+![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/github_ico.png "Git/Github")
 
 ## 👨🏻‍💻 About me:
 
