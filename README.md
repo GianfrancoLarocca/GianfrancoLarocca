@@ -26,7 +26,7 @@
 ---
 
 - 💻 I'm Java Backend Developer;
-- ⏳ I'm learning Typescript
+- ⏳ I'm learning Angular
 - 📧 gianfrancolarocca4j@gmail.com
 - 🏡 Italy
 
