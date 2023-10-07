@@ -10,7 +10,6 @@
 
 ---
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/spring_boot_ico.png "Spring Boot")
-![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/flutter_ico.png "Flutter")
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/hibernate_ico.png "Hibernate")
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/html_ico.png "HTML")
 ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/javascript_ico.png "Javascript")
