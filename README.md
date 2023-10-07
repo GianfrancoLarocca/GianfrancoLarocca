@@ -37,4 +37,3 @@
 [<img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/linkedin_ico.png">](https://www.linkedin.com/in/gianfrancolarocca4j/)
 <a href="mailto:gianfrancolarocca4j@gmail.com?"><img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/gmail_ico.png"/></a>
 
-[![An image of @giancotsu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/giancotsu)](https://holopin.io/@giancotsu)
