@@ -25,7 +25,7 @@
 ---
 
 - 💻 I'm Java Backend Developer;
-- ⏳ I'm learning Angular
+- ⏳ I'm learning Spring Cloud Modules
 - 📧 gianfrancolarocca4j@gmail.com
 - 🏡 Italy
 
