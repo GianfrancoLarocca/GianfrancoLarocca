@@ -4,28 +4,26 @@
 
 ### 👋 Benvenuto nel mio profilo GitHub!
 
-## 👨‍💻 Chi sono?
-Mi chiamo Gianfranco Larocca, sono uno sviluppatore full-stack appassionato di tecnologia e innovazione nel web. Vivo in Italia e adoro imparare nuove tecnologie, applicandole a progetti personali e alle sfide tecniche quotidiane.
+## 👨‍💻 **Chi sono?**
+Mi chiamo **Gianfranco Larocca**, sono uno sviluppatore full-stack appassionato di tecnologia e innovazione nel web. Vivo in Italia e adoro imparare nuove tecnologie, applicandole a progetti personali e alle sfide tecniche quotidiane.
 
 <!-- ![image](https://github.com/Giancotsu/Giancotsu/blob/main/img/giphy.gif) -->
 
----
-
-## 💼 Tecnologie che utilizzo:
+## 💼 **Tecnologie che utilizzo:**
 
 Per il lavoro:
 
-- Backend: PHP con il framework Laravel
+- **Backend**: PHP con il framework Laravel
 
-- Frontend: JavaScript con Vue.js
+- **Frontend**: JavaScript con Vue.js
 
 Per progetti personali:
 
-- Backend: Java con Spring Boot
+- **Backend**: Java con Spring Boot
 
-- Frontend: Angular utilizzando TypeScript
+- **Frontend**: Angular utilizzando TypeScript
 
-## 🛠️ Tecnologie e Strumenti
+## 🛠️ **Tecnologie e Strumenti:**
 
 - <i class="devicon-php-plain"></i> **PHP**: Linguaggio backend versatile e diffuso, perfetto per creare applicazioni web dinamiche.
 - <i class="devicon-laravel-plain"></i> **Laravel**: Framework PHP elegante e scalabile per lo sviluppo rapido di applicazioni.
@@ -43,31 +41,30 @@ Per progetti personali:
 - Owar: 
 - Youtube: -->
 
-## 📊 Statistiche GitHub
+## 📊 **Statistiche GitHub:**
 
 ### 🌟 Statistiche Generali
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianfrancoLarocca&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianfrancoLarocca&show_icons=true&theme=dark)
 
 ---
 
 ### 🔥 Linguaggi più Utilizzati
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoLarocca&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoLarocca&layout=compact&theme=dark)
 
----
+<!-- ---
 
 ### 🚀 Streak di Contributi
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GianfrancoLarocca&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GianfrancoLarocca&theme=dark) -->
 
-## ♟️ Passioni e Hobby:
+## ♟️ **Passioni e Hobby:**
 - Giocare a scacchi e mettere alla prova la mia strategia.
 - Esplorare nuove tecnologie e migliorare le mie competenze.
 <!-- - Lettura di libri su sviluppo personale e crescita professionale. -->
 
-## 🤝 Collaborazioni e Open Source:
+## 🤝 **Collaborazioni e Open Source:**
 Sono sempre aperto a collaborazioni su progetti open source. Sentiti libero di contattarmi per discutere nuove idee!
 
-## 📫 Contattami:
+## 📫 **Contattami:**
 
 [<img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/linkedin_ico.png">](https://www.linkedin.com/in/gianfrancolarocca4j/)
 <a href="mailto:gianfrancolarocca4j@gmail.com?"><img src="https://github.com/Giancotsu/Giancotsu/blob/main/img/gmail_ico.png"/></a>
