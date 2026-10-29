@@ -112,8 +112,8 @@ open_to:     [on-site, hybrid, remote, relocation]
 ## 📊 GitHub & LeetCode
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GianfrancoLarocca&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=FF2D20&icon_color=FF2D20&text_color=8b949e" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoLarocca&layout=compact&hide_border=true&bg_color=00000000&title_color=FF2D20&text_color=8b949e" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
