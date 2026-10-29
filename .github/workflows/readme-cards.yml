@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
-    branches: [main, claude/keen-noether-9s9wdr]
+    branches: [main]
     paths:
       - README.md
       - .github/workflows/readme-cards.yml
@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=FF2D20&icon_color=FF2D20&text_color=8b949e
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_border=true&bg_color=00000000&title_color=FF2D20&icon_color=FF2D20&text_color=8b949e
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
