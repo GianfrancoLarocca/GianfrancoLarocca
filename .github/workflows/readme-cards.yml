@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, claude/keen-noether-9s9wdr]
     paths:
       - README.md
       - .github/workflows/readme-cards.yml
